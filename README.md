@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lakshmip001
-- 👀 I’m interested in Digitalization of industries.
-- 🌱 I’m currently learning SQL, Stored Procedurces, python.
-- 💞️ I’m looking to collaborate on challenging projects using python, C++, C#.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on challenging projects using Java, python, C++, C#, SQL.
 - 📫 lakshmiprasanna.nitt@gmail.com
 
 <!---
